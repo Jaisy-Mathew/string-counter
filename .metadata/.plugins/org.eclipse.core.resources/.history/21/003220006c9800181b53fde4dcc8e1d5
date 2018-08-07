@@ -1,0 +1,29 @@
+/**
+ * @author Jaisy Mathew
+ *
+ */
+package counter;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/counter-api")
+public class CounterController {
+	
+	@Autowired
+	private CounterService counterService;
+	 @RequestMapping(value = "/search", method = RequestMethod.POST )
+	 public CounterResponse search(@RequestBody CounterRequest counterRequest) {
+		 CounterResponse counterResponse = counterService.search();
+		 return counterResponse;
+	 }
+	 @RequestMapping(value = "/top", method = RequestMethod.GET)
+	 public CounterResponse topCount(@RequestBody CounterRequest counterRequest) {
+		 CounterResponse counterResponse = counterService.topCount();
+		 return counterResponse;
+	 }
+}

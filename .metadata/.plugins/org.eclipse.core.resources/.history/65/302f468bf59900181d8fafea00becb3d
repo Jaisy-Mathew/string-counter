@@ -1,0 +1,12 @@
+package com.counter;
+
+@EnableWebSecurity
+public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
+
+	@Bean
+	public UserDetailsService userDetailsService() throws Exception {
+		InMemoryUserDetailsManager manager = new InMemoryUserDetailsManager();
+		manager.createUser(User.withUsername("user").password("password").roles("USER").build());
+		return manager;
+	}
+}

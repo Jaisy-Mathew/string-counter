@@ -1,0 +1,14 @@
+package com.counter;
+
+import java.util.Base64;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String plainClientCredentials="b3B0dXM6Y2FuZGlkYXRlcw==";
+		//String base64ClientCredentials = new String(Base64.encodeBase64(plainClientCredentials.getBytes()));
+		String base64ClientCredentials = new String(Base64.getDecoder().decode(plainClientCredentials.getBytes()));
+	}
+
+}

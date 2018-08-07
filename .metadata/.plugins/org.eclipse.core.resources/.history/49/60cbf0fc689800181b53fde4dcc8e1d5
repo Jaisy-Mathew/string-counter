@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package counter;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Jaisy Mathew
+ *
+ */
+@RestController
+@RequestMapping("/counter-api")
+public class CounterController {
+	
+	 @RequestMapping(value = "/search", method = RequestMethod.POST)
+	 public CounterRespose search() {
+		 
+	 }
+	 @RequestMapping(value = "/top", method = RequestMethod.GET)
+	 public COunterResponse topCounter() {
+		 
+	 }
+}

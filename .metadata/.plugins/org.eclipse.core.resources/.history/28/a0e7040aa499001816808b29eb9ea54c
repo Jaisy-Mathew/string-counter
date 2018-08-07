@@ -1,0 +1,30 @@
+package com.counter;
+
+import java.util.HashMap;
+
+public class CounterResponse {
+	private HashMap<String,Integer> wordCount;
+	private String topCounts;
+	
+	public HashMap<String, Integer> getWordCount() {
+		return wordCount;
+	}
+
+	public void setWordCount(HashMap<String, Integer> wordCount) {
+		this.wordCount = wordCount;
+	}
+
+	public String getTopCounts() {
+		return topCounts;
+	}
+
+	public void setTopCounts(String topCounts) {
+		this.topCounts = topCounts;
+	}
+
+	@Override
+	public String toString() {
+		return "CounterResponse [wordCount=" + wordCount + ", topCounts=" + topCounts + "]";
+	}
+	
+}

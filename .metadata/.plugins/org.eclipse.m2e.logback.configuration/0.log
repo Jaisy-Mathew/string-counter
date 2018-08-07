@@ -1,0 +1,497 @@
+2018-08-05 11:22:59,366 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-05 11:28:46,556 [Worker-15: Creating project "CounterProj"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: counterroject:CounterProj:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\CounterProj\pom.xml.
+2018-08-05 11:28:54,366 [Worker-15: Creating project "CounterProj"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CounterProj/src/main/java
+2018-08-05 11:28:54,369 [Worker-15: Creating project "CounterProj"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CounterProj/src/main/resources
+2018-08-05 11:28:54,371 [Worker-15: Creating project "CounterProj"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CounterProj/src/test/java
+2018-08-05 11:28:54,372 [Worker-15: Creating project "CounterProj"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CounterProj/src/test/resources
+2018-08-05 11:28:57,082 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:28:57,196 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:28:57,199 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:28:57,201 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:29:35,509 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: counterroject:CounterProj:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\CounterProj\pom.xml.
+2018-08-05 11:29:37,040 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:29:37,065 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:29:37,069 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:29:37,072 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:30:30,776 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:30:31,841 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:30:31,844 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:30:31,847 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:31:11,275 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:31:11,315 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:31:11,318 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:31:11,325 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:27,557 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: counterroject:CounterProj:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\CounterProj\pom.xml.
+2018-08-05 11:46:29,138 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE.pom
+2018-08-05 11:46:29,351 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE.pom
+2018-08-05 11:46:29,554 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2018-08-05 11:46:30,059 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2018-08-05 11:46:30,250 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-08-05 11:46:30,689 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-08-05 11:46:30,894 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE.pom
+2018-08-05 11:46:31,325 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE.pom
+2018-08-05 11:46:31,534 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE.pom
+2018-08-05 11:46:31,757 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE.pom
+2018-08-05 11:46:31,949 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE.pom
+2018-08-05 11:46:32,200 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE.pom
+2018-08-05 11:46:32,392 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.pom
+2018-08-05 11:46:32,626 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.pom
+2018-08-05 11:46:32,853 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE.pom
+2018-08-05 11:46:33,042 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE.pom
+2018-08-05 11:46:33,245 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE.pom
+2018-08-05 11:46:33,437 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE.pom
+2018-08-05 11:46:33,668 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE.jar
+2018-08-05 11:46:34,888 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE.jar
+2018-08-05 11:46:35,068 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2018-08-05 11:46:35,264 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2018-08-05 11:46:35,441 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE.jar
+2018-08-05 11:46:35,797 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE.jar
+2018-08-05 11:46:35,974 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE.jar
+2018-08-05 11:46:36,264 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE.jar
+2018-08-05 11:46:36,444 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE.jar
+2018-08-05 11:46:37,001 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE.jar
+2018-08-05 11:46:37,196 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar
+2018-08-05 11:46:37,617 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar
+2018-08-05 11:46:37,798 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE.jar
+2018-08-05 11:46:38,166 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE.jar
+2018-08-05 11:46:38,348 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE.jar
+2018-08-05 11:46:38,642 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE.jar
+2018-08-05 11:46:40,905 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:40,935 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:40,940 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:40,947 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:42,100 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:43,693 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.0.RELEASE/spring-core-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:43,851 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.3.0.RELEASE
+2018-08-05 11:46:43,956 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: counterroject:CounterProj:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\CounterProj\pom.xml.
+2018-08-05 11:46:44,043 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2018-08-05 11:46:44,269 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2018-08-05 11:46:44,404 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2018-08-05 11:46:44,629 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:44,903 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:44,907 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:44,909 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:44,913 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:45,088 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:45,255 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:4.3.0.RELEASE
+2018-08-05 11:46:45,449 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:45,715 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.0.RELEASE/spring-aop-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:45,841 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.3.0.RELEASE
+2018-08-05 11:46:46,023 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:46,351 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:46,507 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.3.0.RELEASE
+2018-08-05 11:46:46,688 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:47,342 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:47,509 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.0.RELEASE
+2018-08-05 11:46:47,694 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:48,573 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.0.RELEASE/spring-webmvc-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:48,705 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:4.3.0.RELEASE
+2018-08-05 11:46:48,903 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:49,130 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.0.RELEASE/spring-expression-4.3.0.RELEASE-sources.jar
+2018-08-05 11:46:49,365 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:4.3.0.RELEASE
+2018-08-05 11:46:49,627 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:49,630 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:49,635 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:49,638 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:50,524 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:4.3.0.RELEASE
+2018-08-05 11:46:50,534 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.3.0.RELEASE
+2018-08-05 11:46:50,541 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.3.0.RELEASE
+2018-08-05 11:46:50,547 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.0.RELEASE
+2018-08-05 11:46:50,553 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:4.3.0.RELEASE
+2018-08-05 11:46:50,558 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:4.3.0.RELEASE
+2018-08-05 11:46:50,740 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:50,744 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:46:50,756 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:46:50,760 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:49:29,423 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:49:29,435 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:49:29,440 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:49:29,442 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:49:30,766 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:49:30,768 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:49:30,770 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:49:30,772 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:51:50,037 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:51:50,041 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:51:50,043 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:51:50,046 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:48,204 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:48,224 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:48,225 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:48,228 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:49,688 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:49,691 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:49,707 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:49,709 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:55,740 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:55,743 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:53:55,745 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:53:55,747 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:57:09,372 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:57:09,399 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 11:57:09,401 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 11:57:09,404 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 14:35:42,045 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 14:35:42,892 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 14:35:43,131 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 14:35:43,219 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 21:46:45,875 [Worker-83: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: counterroject:CounterProj:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\CounterProj\pom.xml.
+2018-08-05 21:46:48,855 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2018-08-05 21:46:49,617 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2018-08-05 21:46:50,324 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5.pom
+2018-08-05 21:46:51,383 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5.pom
+2018-08-05 21:46:51,635 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2018-08-05 21:46:52,672 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2018-08-05 21:46:52,999 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2018-08-05 21:46:53,746 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2018-08-05 21:46:54,076 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.pom
+2018-08-05 21:46:55,357 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.pom
+2018-08-05 21:46:55,656 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5.pom
+2018-08-05 21:46:56,288 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5.pom
+2018-08-05 21:46:56,551 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2018-08-05 21:46:57,177 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2018-08-05 21:46:57,359 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5.jar
+2018-08-05 21:46:58,696 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5.jar
+2018-08-05 21:46:58,893 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar
+2018-08-05 21:46:59,296 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar
+2018-08-05 21:46:59,483 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5.jar
+2018-08-05 21:47:00,178 [Worker-83: Building Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5.jar
+2018-08-05 21:47:12,354 [Worker-83: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 21:47:12,650 [Worker-83: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 21:47:12,659 [Worker-83: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-05 21:47:12,686 [Worker-83: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 21:47:14,603 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2018-08-05 21:47:15,825 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2018-08-05 21:47:16,120 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:3.1.0
+2018-08-05 21:47:16,344 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5-sources.jar
+2018-08-05 21:47:17,679 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5-sources.jar
+2018-08-05 21:47:17,800 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.7.5
+2018-08-05 21:47:17,991 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0-sources.jar
+2018-08-05 21:47:18,279 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0-sources.jar
+2018-08-05 21:47:18,549 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.7.0
+2018-08-05 21:47:18,730 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5-sources.jar
+2018-08-05 21:47:19,434 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5-sources.jar
+2018-08-05 21:47:20,037 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.7.5
+2018-08-06 11:16:42,075 [Worker-118: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 11:16:42,357 [Worker-118: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 11:16:42,358 [Worker-118: Launching build_counter] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 11:18:40,965 [Worker-110: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-06 11:18:41,042 [Worker-110: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-06 11:18:41,053 [Worker-110: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-06 11:18:41,055 [Worker-110: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-06 11:18:54,622 [Worker-117: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 11:18:54,622 [Worker-117: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 11:18:54,622 [Worker-117: Launching build_counter] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 11:24:54,646 [Worker-118: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 11:24:54,647 [Worker-118: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 11:24:54,647 [Worker-118: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 11:27:22,835 [Worker-124: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 11:27:22,835 [Worker-124: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 11:27:22,836 [Worker-124: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 15:07:17,741 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-08-06 15:07:18,325 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-08-06 15:07:18,910 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-08-06 15:07:19,709 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-08-06 15:08:38,594 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml
+2018-08-06 15:09:00,942 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2018-08-06 15:09:02,777 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2018-08-06 15:09:13,174 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-06 15:09:18,170 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2018-08-06 15:09:18,852 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2018-08-06 15:09:29,342 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2018-08-06 15:09:29,575 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2018-08-06 15:09:30,203 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2018-08-06 15:09:30,508 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2018-08-06 15:09:30,778 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2018-08-06 15:09:31,025 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2018-08-06 15:09:31,277 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2018-08-06 15:09:32,708 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2018-08-06 15:09:32,900 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2018-08-06 15:09:33,812 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2018-08-06 15:09:34,569 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2018-08-06 15:09:35,496 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2018-08-06 15:09:35,765 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2018-08-06 15:09:37,189 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2018-08-06 15:09:37,454 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2018-08-06 15:09:38,436 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2018-08-06 15:09:39,815 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2018-08-06 15:09:41,582 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2018-08-06 15:09:41,760 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2018-08-06 15:09:43,144 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2018-08-06 15:09:43,322 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2018-08-06 15:09:44,627 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2018-08-06 15:10:00,508 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-06 15:10:00,509 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-06 15:10:00,509 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-06 15:10:01,305 [Worker-136: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2018-08-06 15:10:04,011 [Worker-136: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2018-08-06 15:10:05,433 [Worker-136: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2018-08-06 15:11:46,130 [Worker-131: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 187 sec
+2018-08-06 15:26:42,722 [Worker-123: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 15:26:42,727 [Worker-123: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 15:27:56,900 [Worker-123: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\CounterProj
+2018-08-06 15:27:56,900 [Worker-123: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 15:33:03,597 [Worker-143: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 15:33:03,597 [Worker-143: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 15:34:25,505 [Worker-140: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 15:34:25,506 [Worker-140: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 15:43:48,048 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-06 15:45:51,897 [Worker-4: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 15:45:51,899 [Worker-4: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run
+2018-08-06 15:45:51,901 [Worker-4: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 15:53:23,212 [Worker-17: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 15:53:23,214 [Worker-17: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run -Dmaven.tomcat.port=8081
+2018-08-06 15:53:23,214 [Worker-17: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 16:15:26,645 [Worker-25: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-06 16:15:39,541 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-06 16:15:39,563 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-06 16:15:39,570 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-06 16:15:39,574 [Worker-28: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-06 16:15:39,575 [Worker-28: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-06 16:15:39,577 [Worker-28: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-06 16:15:39,590 [Worker-28: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-06 16:20:20,158 [Worker-21: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 16:20:20,176 [Worker-21: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:18:47,342 [Worker-47: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:18:48,303 [Worker-47: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:21:44,455 [Worker-48: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:21:44,498 [Worker-48: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:22:29,539 [Worker-50: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:22:29,607 [Worker-50: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-06 18:22:29,607 [Worker-50: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 18:25:52,217 [Worker-48: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:25:52,217 [Worker-48: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:28:09,152 [Worker-48: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:28:09,292 [Worker-48: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-06 18:28:09,292 [Worker-48: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 18:33:55,807 [Worker-41: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:33:55,808 [Worker-41: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:34:30,795 [Worker-51: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:34:30,796 [Worker-51: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-06 18:34:47,136 [Worker-48: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:34:47,137 [Worker-48: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-06 18:34:47,137 [Worker-48: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-06 18:50:35,518 [Worker-55: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-06 18:50:35,519 [Worker-55: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 03:21:30,318 [Worker-64: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 03:21:30,324 [Worker-64: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 03:21:30,388 [Worker-64: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-07 03:26:10,955 [Worker-71: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 03:26:10,956 [Worker-71: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 03:26:10,956 [Worker-71: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-07 03:28:03,236 [Worker-72: Launching Tomcat v8.5 Server at localhost] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 03:28:04,545 [Worker-72: Launching Tomcat v8.5 Server at localhost] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 03:28:05,080 [Worker-72: Launching Tomcat v8.5 Server at localhost] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 03:28:05,082 [Worker-72: Launching Tomcat v8.5 Server at localhost] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 03:29:09,092 [Worker-73: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 03:29:09,092 [Worker-73: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 04:24:00,403 [Worker-71: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 04:24:02,087 [Worker-76: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 04:24:02,440 [Worker-76: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 04:24:02,532 [Worker-76: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 04:24:02,537 [Worker-76: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 04:24:02,538 [Worker-76: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 04:24:02,539 [Worker-76: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 04:24:03,180 [Worker-76: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 04:26:44,758 [Worker-71: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:26:44,759 [Worker-71: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 04:27:24,671 [Worker-71: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:27:24,671 [Worker-71: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 04:41:14,925 [Worker-84: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:41:14,926 [Worker-84: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 04:41:45,901 [Worker-84: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:41:45,901 [Worker-84: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 04:41:45,901 [Worker-84: Launching counter_run] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-07 04:49:17,753 [Worker-90: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:49:17,754 [Worker-90: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 04:49:39,486 [Worker-88: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 04:49:39,486 [Worker-88: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 05:18:03,294 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-07 05:18:16,069 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-07 05:18:23,166 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-07 05:18:23,168 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-07 05:18:23,168 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-07 05:18:34,440 [Worker-97: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 05:18:34,457 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 31 sec
+2018-08-07 05:18:38,346 [Worker-97: Building Project counter] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:18:38,695 [Worker-97: Building Project counter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 05:18:38,699 [Worker-97: Building Project counter] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:18:38,701 [Worker-97: Building Project counter] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 05:18:38,702 [Worker-97: Building Project counter] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 05:18:38,702 [Worker-97: Building Project counter] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 05:18:38,710 [Worker-97: Building Project counter] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:18:45,005 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-07 05:18:46,011 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-07 05:18:47,620 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-07 05:18:47,620 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-07 05:18:47,621 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-07 05:18:48,684 [Worker-104: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 05:18:48,699 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-08-07 05:19:03,060 [Worker-96: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 05:19:03,060 [Worker-96: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 05:22:13,694 [Worker-105: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 05:22:13,694 [Worker-105: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -X -e -o -U -Dmaven.test.skip=true -DskipTests tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 05:23:11,204 [Worker-100: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 05:23:11,204 [Worker-100: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 05:28:38,107 [Worker-105: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 05:28:38,108 [Worker-105: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 05:28:51,321 [Worker-101: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:28:51,335 [Worker-101: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 05:28:51,339 [Worker-101: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:28:51,351 [Worker-101: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 05:28:51,373 [Worker-101: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 05:28:51,373 [Worker-101: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 05:28:51,388 [Worker-101: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:29:06,188 [Worker-101: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:29:06,229 [Worker-101: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 05:29:06,232 [Worker-101: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:29:06,234 [Worker-101: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 05:52:47,859 [Worker-109: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:52:48,292 [Worker-109: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 05:52:48,294 [Worker-109: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 05:52:48,296 [Worker-109: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 05:59:49,375 [Worker-110: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 05:59:49,375 [Worker-110: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:01:30,466 [Worker-108: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:01:30,466 [Worker-108: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:03:13,443 [Worker-111: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:03:13,443 [Worker-111: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:21:34,938 [Worker-102: Opening POM] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/${spring-security.version}/spring-security-config-${spring-security.version}.pom
+2018-08-07 06:21:35,616 [Worker-102: Opening POM] ERROR o.e.m.c.u.i.actions.OpenPomAction - Could not resolve artifact org.springframework.security:spring-security-config:pom:${spring-security.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.security:spring-security-config:pom:${spring-security.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openPomEditor(OpenPomAction.java:243) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openEditor(OpenPomAction.java:218) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.xml.PomHyperlinkDetector$6$1.run(PomHyperlinkDetector.java:615) [org.eclipse.m2e.editor.xml_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-07 06:24:16,670 [Worker-102: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:24:16,670 [Worker-102: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:25:49,710 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-07 06:25:53,748 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-07 06:25:59,604 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-07 06:25:59,607 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-07 06:25:59,608 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-07 06:26:01,067 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.4.RELEASE/spring-security-core-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:03,171 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.4.RELEASE/spring-security-core-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:04,106 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:4.2.4.RELEASE
+2018-08-07 06:26:04,401 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2018-08-07 06:26:05,114 [Worker-115: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 06:26:05,122 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2018-08-07 06:26:05,472 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2018-08-07 06:26:06,753 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2018-08-07 06:26:06,945 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.4.RELEASE/spring-security-web-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:07,335 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.4.RELEASE/spring-security-web-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:07,621 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:4.2.4.RELEASE
+2018-08-07 06:26:07,822 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.4.RELEASE/spring-security-config-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:08,220 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.4.RELEASE/spring-security-config-4.2.4.RELEASE-sources.jar
+2018-08-07 06:26:08,516 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:4.2.4.RELEASE
+2018-08-07 06:26:09,835 [Worker-120: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:4.2.4.RELEASE
+2018-08-07 06:26:09,867 [Worker-120: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2018-08-07 06:26:09,909 [Worker-120: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:4.2.4.RELEASE
+2018-08-07 06:26:09,961 [Worker-120: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:4.2.4.RELEASE
+2018-08-07 06:27:07,124 [Worker-120: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:27:07,128 [Worker-120: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 06:27:07,131 [Worker-120: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:27:07,133 [Worker-120: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 06:27:07,134 [Worker-120: Launching Test] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 06:27:07,134 [Worker-120: Launching Test] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 06:27:07,208 [Worker-120: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:32:27,224 [Worker-110: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 06:32:27,781 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:32:27,786 [Worker-120: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 06:32:27,788 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:32:27,792 [Worker-120: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 06:32:27,793 [Worker-120: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 06:32:27,793 [Worker-120: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 06:32:27,802 [Worker-120: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:35:23,506 [Worker-110: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 06:35:23,829 [Worker-117: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:35:23,856 [Worker-117: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 06:35:23,859 [Worker-117: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:35:23,885 [Worker-117: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 06:35:23,886 [Worker-117: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 06:35:23,886 [Worker-117: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 06:35:23,895 [Worker-117: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:35:49,145 [Worker-117: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:35:49,146 [Worker-117: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:36:10,945 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-07 06:36:12,541 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-07 06:36:17,724 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-07 06:36:17,725 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-07 06:36:17,726 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-07 06:36:19,451 [Worker-123: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 06:36:19,463 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2018-08-07 06:36:19,792 [Worker-124: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:36:19,793 [Worker-124: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 06:45:29,152 [Worker-132: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:45:29,164 [Worker-132: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:48:04,402 [Worker-134: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:48:04,434 [Worker-134: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 06:48:04,442 [Worker-134: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:48:04,442 [Worker-134: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 06:48:04,446 [Worker-134: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 06:48:04,446 [Worker-134: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 06:48:04,458 [Worker-134: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 06:48:31,173 [Worker-133: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:48:31,173 [Worker-133: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:48:49,780 [Worker-136: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-07 06:48:50,757 [Worker-136: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.stringcounter:counter:0.0.1-SNAPSHOT @ E:\Jaisy\Java_workspace\TechMahindra\counter\pom.xml.
+2018-08-07 06:48:52,869 [Worker-136: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/main/java
+2018-08-07 06:48:52,869 [Worker-136: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /counter/src/main/resources
+2018-08-07 06:48:52,869 [Worker-136: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /counter/src/test/java
+2018-08-07 06:48:54,917 [Worker-136: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 06:48:54,927 [Worker-136: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2018-08-07 06:48:58,537 [Worker-128: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:48:58,537 [Worker-128: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:49:18,520 [Worker-128: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:49:18,520 [Worker-128: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 06:50:35,308 [Worker-128: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 06:50:35,308 [Worker-128: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 06:50:35,308 [Worker-128: Launching build_counter] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-07 07:02:00,641 [Worker-138: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 07:02:00,643 [Worker-138: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 07:04:08,804 [Worker-134: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 07:04:08,804 [Worker-134: Launching counter_run] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat:run -Dmaven.tomcat.port=8081
+2018-08-07 11:04:43,365 [Worker-3: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:04:43,403 [Worker-3: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 11:04:43,414 [Worker-3: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:04:43,422 [Worker-3: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 11:04:43,431 [Worker-3: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 11:04:43,432 [Worker-3: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 11:04:43,597 [Worker-3: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:05:53,704 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-07 11:05:56,614 [Worker-4: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 11:05:56,616 [Worker-4: Launching build_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -e
+2018-08-07 11:51:53,200 [Worker-23: Build Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:51:53,703 [Worker-23: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 11:51:53,706 [Worker-23: Build Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:51:53,708 [Worker-23: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 11:51:57,543 [Worker-22: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 11:51:58,681 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:51:58,686 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 11:51:58,690 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 11:51:58,692 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 11:51:58,694 [Worker-26: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 11:51:58,694 [Worker-26: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 11:51:58,816 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 13:44:57,037 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for counter
+2018-08-07 13:44:58,513 [Worker-33: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 13:44:58,542 [Worker-33: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 13:44:58,545 [Worker-33: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 13:44:58,547 [Worker-33: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Jaisy\Java_workspace\TechMahindra\counter\src\test\resources
+2018-08-07 13:44:58,548 [Worker-33: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of counter
+2018-08-07 13:44:58,548 [Worker-33: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for counter
+2018-08-07 13:44:58,563 [Worker-33: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 13:46:11,262 [Worker-36: Launching Executing clean in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 13:46:11,262 [Worker-36: Launching Executing clean in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-08-07 13:46:11,263 [Worker-36: Launching Executing clean in E__Jaisy_Java_workspace_TechMahindra_counter] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2018-08-07 13:46:35,854 [Worker-31: Launching Executing install in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 13:46:35,854 [Worker-31: Launching Executing install in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-08-07 13:48:26,592 [Worker-35: Launching Executing install in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Jaisy\Java_workspace\TechMahindra\counter
+2018-08-07 13:48:26,592 [Worker-35: Launching Executing install in E__Jaisy_Java_workspace_TechMahindra_counter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install

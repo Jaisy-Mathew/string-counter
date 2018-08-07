@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CounterProj/src/test/java/counter&apos; to &apos;com&apos;" description="Rename resource &apos;counter&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/counter" name="com" stamp="1533468846148" updateReferences="true"/>
+</session>

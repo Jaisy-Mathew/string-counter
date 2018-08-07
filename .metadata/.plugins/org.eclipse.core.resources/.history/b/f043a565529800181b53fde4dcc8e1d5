@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package counter;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Jaisy Mathew
+ *
+ */
+@RestController
+@RequestMapping("/counter-api")
+public class CounterController {
+
+}

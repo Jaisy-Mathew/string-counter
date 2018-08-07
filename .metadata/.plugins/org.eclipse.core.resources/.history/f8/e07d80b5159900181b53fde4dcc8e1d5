@@ -1,0 +1,17 @@
+package com.counter;
+
+import java.util.HashMap;
+
+public class CounterResponse {
+	private HashMap<String,Integer> wordCount;
+
+	public HashMap<String, Integer> getWordCount() {
+		return wordCount;
+	}
+
+	public void setWordCount(HashMap<String, Integer> wordCount) {
+		this.wordCount = wordCount;
+	}
+	
+
+}
